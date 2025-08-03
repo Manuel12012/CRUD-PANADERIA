@@ -9,6 +9,13 @@ $query = "SELECT * FROM productos";
 $resultadoConsulta = mysqli_query($db, $query);
 
 
+if($_SERVER["REQUEST_METHOD"]==="POST"){
+  $id = $_POST["id"];
+  
+
+
+
+}
 
 
 
