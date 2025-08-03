@@ -2,7 +2,7 @@
 
 // Creamos la funcion para conectar la base de datos
 function conectarDB(){
-$db = mysqli_connect("localhost", "root", "","db_panaderia");
+$db = mysqli_connect("localhost", "root", "SouthPark_12012","db_panaderia");
 
 // Si la conexion falla mostrara error
 if(!$db){

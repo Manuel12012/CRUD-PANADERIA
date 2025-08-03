@@ -3,7 +3,7 @@
 
   <!-- Logo o título a la izquierda -->
   <div>
-    <a href="/admin" class="text-2xl font-bold text-gray-800 hover:text-blue-700 transition">
+    <a href="/admin" class="text-1xl font-bold text-gray-800 hover:text-blue-700 transition">
       Sistema - Panadería
     </a>
   </div>
